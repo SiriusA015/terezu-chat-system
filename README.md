@@ -12,9 +12,6 @@ A Socket.io Chat Example Using TypeScript
 
 This repository contains server & client side code using `TypeScript` language
 
-## Blog Post
-Read the blog post with details about this project: [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1) 
-
 # Support this project
 - Star GitHub repository :star:
 - Create pull requests, submit bugs or suggest new features
