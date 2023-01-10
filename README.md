@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/luixaviles/socket-io-typescript-chat">
-        <img src="https://img.shields.io/github/stars/luixaviles/socket-io-typescript-chat.svg?style=social&label=Star" alt="GitHub stars">
+    <a href="https://github.com/SiriusA015/terezu-chat-system">
+        <img src="https://img.shields.io/github/stars/SiriusA015/socket-io-typescript-chat.svg?style=social&label=Star" alt="GitHub stars">
     </a>
     <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fluixaviles%2Fsocket-io-typescript-chat&via=luixaviles&text=Take%20a%20look%20this%20%23TypeScript%20chat%20project%20using%20%23Node%20and%20%23Angular%20Material">
         <img src="https://img.shields.io/twitter/url/https/github.com/luixaviles/socket-io-typescript-chat.svg?style=social" alt="Tweet">
@@ -21,9 +21,9 @@ Try live demo: [https://typescript-chat.firebaseapp.com](https://typescript-chat
 # Support this project
 - Star GitHub repository :star:
 - Create pull requests, submit bugs or suggest new features
-- Follow updates on [Twitter](https://twitter.com/luixaviles) or [Github](https://github.com/luixaviles)
+- Follow updates on [Twitter](https://twitter.com/SiriusA015) or [Github](https://github.com/SiriusA015)
 
-![](https://luixaviles.com/assets/images/posts/typescript-chat/typescript-chat.gif?raw=true)
+![](https://SiriusA015.com/assets/images/posts/typescript-chat/typescript-chat.gif?raw=true)
 
 # Running Server and Client locally
 ## Prerequisites
@@ -41,8 +41,8 @@ After that, use `Git bash` to run all commands if you are on Windows platform.
 In order to start the project use:
 
 ```bash
-$ git clone https://github.com/luixaviles/socket-io-typescript-chat.git
-$ cd socket-io-typescript-chat
+$ git clone https://github.com/SiriusA015/terezu-chat-system.git
+$ cd terezu-chat-system.git
 ```
 
 ## Run Server
